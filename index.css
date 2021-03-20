@@ -1,0 +1,47 @@
+.top__content{
+	width: 1050px;
+	background: #FFFFFF;
+	margin: 0 auto;
+}
+.top{
+	margin: 0 auto;
+}
+.header{
+	margin-left: 100px;
+}
+.inf__ad{
+	font-size: 36px;
+}
+.header__ad1-bunner{
+	font-size: 36px;
+}
+.header__ad2{
+	font-size: 36px;
+}
+body{
+	background: #F9F5FA;
+}
+.header__img{
+	width: 700px;
+	margin-left: -20px;
+}
+.header__introduction{
+	font-size: 20px;
+	margin-left: -54px;
+}
+.header__h1{
+	font-size: 46px;
+	padding-top: 20px;
+	margin-top: 0;
+}
+.inf__topic{
+	padding-left: 35px;
+}
+.inf__text{
+	padding:0 35px 0 35px;
+	font-size: 20px;
+}
+.header__ad1{
+	display: flex;
+
+}
