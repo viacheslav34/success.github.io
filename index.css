@@ -57,18 +57,38 @@ body{
 .menu{
 	max-height: 100%;
 	width: 400px;
-	background: #E57B39;
+	background: #d1c7c7;
 	margin-left: 100px;
 	border-radius: 2px;
 }
 .menu__header{
-	background: #ECCFBE;
+	background: #d1c7c7;
 	width: 400px;
 	height: 50px;
 	font-size: 24px;
 	padding: 20px 0 0 40px;
+	border-bottom: 2px solid #696464;
 }
 .menu__content{
 	font-size: 24px;
 	padding: 20px 0 0 15px;
+}
+@media(max-width: 390px){
+	.menu{
+		display: none;
+	}
+	.header{
+		width: 300px;
+	}
+	.header__img{
+		width: 200px;
+	}
+	.header__ad1-bunner{
+		font-size: 12px;
+	}
+	.end__link{
+		max-width: 300px;
+		padding: 10px;
+		font-size: 18px;
+	}
 }
