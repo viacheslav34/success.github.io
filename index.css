@@ -2,7 +2,9 @@
 	width: 1050px;
 	background: #FFFFFF;
 	margin: 0 auto;
-	height: auto;
+	height: 100%;
+	padding-bottom: 40px;
+	padding-top: 20px;
 }
 .top{
 	margin: 0 auto;
