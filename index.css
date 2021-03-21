@@ -73,12 +73,12 @@ body{
 	font-size: 24px;
 	padding: 20px 0 0 15px;
 }
-@media(max-width: 390px){
+@media(max-width: 650px){
 	.menu{
 		display: none;
 	}
 	.header{
-		width: 300px;
+		max-width: 360px;
 	}
 	.header__img{
 		width: 200px;
@@ -90,5 +90,19 @@ body{
 		max-width: 300px;
 		padding: 10px;
 		font-size: 18px;
+	}
+	.top__content{
+		max-width: 360px;
+		padding-right: 15px;
+
+	}
+	.inf__text{
+		font-size: 17px;
+	}
+	.header__introduction{
+		font-size: 17px;
+	}
+	.header__h1{
+		font-size: 24px;
 	}
 }
