@@ -2,6 +2,7 @@
 	width: 1050px;
 	background: #FFFFFF;
 	margin: 0 auto;
+	height: auto;
 }
 .top{
 	margin: 0 auto;
@@ -44,5 +45,10 @@ body{
 }
 .header__ad1{
 	display: flex;
+
+}
+.end__link{
+	padding:  20px 0 50px 235px;
+	font-size: 20px;
 
 }
