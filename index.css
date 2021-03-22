@@ -72,6 +72,11 @@ body{
 .menu__content{
 	font-size: 24px;
 	padding: 20px 0 0 15px;
+	display: flex;
+	flex-wrap: wrap;
+}
+.menu__content-href{
+	padding:0 0 30px 20px;
 }
 @media(max-width: 650px){
 	.menu{
