@@ -102,6 +102,10 @@ body{
 	}
 	.header__h1{
 		font-size: 24px;
+		padding: 0;
+		width: 309px;
+		position: relative;right: 50px;
+
 	}
 	.top__content{
 		max-width: 360px;
