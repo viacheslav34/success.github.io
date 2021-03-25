@@ -57,12 +57,12 @@ body{
 .menu{
 	max-height: 100%;
 	width: 400px;
-	background: #d1c7c7;
+	background: #E1D7D7;
 	margin-left: 100px;
 	border-radius: 2px;
 }
 .menu__header{
-	background: #d1c7c7;
+	background: #D7C8C8;
 	width: 400px;
 	height: 50px;
 	font-size: 24px;
